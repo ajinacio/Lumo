@@ -1,0 +1,12 @@
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Repository\bin\Debug\Lumo.Repository.dll
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Repository\bin\Debug\Lumo.Repository.pdb
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Repository\obj\Debug\Lumo.Repository.csprojAssemblyReference.cache
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Repository\obj\Debug\Lumo.Repository.csproj.CoreCompileInputs.cache
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Repository\obj\Debug\Lumo.Repository.dll
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Repository\obj\Debug\Lumo.Repository.pdb
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Repository\bin\Debug\Lumo.Repository.dll
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Repository\bin\Debug\Lumo.Repository.pdb
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Repository\obj\Debug\Lumo.Repository.csprojAssemblyReference.cache
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Repository\obj\Debug\Lumo.Repository.csproj.CoreCompileInputs.cache
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Repository\obj\Debug\Lumo.Repository.dll
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Repository\obj\Debug\Lumo.Repository.pdb

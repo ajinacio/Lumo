@@ -1,0 +1,12 @@
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Domain\bin\Debug\Lumo.Domain.dll
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Domain\bin\Debug\Lumo.Domain.pdb
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Domain\obj\Debug\Lumo.Domain.csprojAssemblyReference.cache
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Domain\obj\Debug\Lumo.Domain.csproj.CoreCompileInputs.cache
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Domain\obj\Debug\Lumo.Domain.dll
+C:\InfoStudio\VisualStudio\Lumo\Lumo.Domain\obj\Debug\Lumo.Domain.pdb
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Domain\bin\Debug\Lumo.Domain.dll
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Domain\bin\Debug\Lumo.Domain.pdb
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Domain\obj\Debug\Lumo.Domain.csprojAssemblyReference.cache
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Domain\obj\Debug\Lumo.Domain.csproj.CoreCompileInputs.cache
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Domain\obj\Debug\Lumo.Domain.dll
+C:\InfoStudio\VisualStudio\Lumo\DotNET\Lumo.Domain\obj\Debug\Lumo.Domain.pdb
