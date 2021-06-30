@@ -23,7 +23,7 @@ namespace LumoForm
 
             frm.Show();
             this.Visible = false;
-            timer1.Enabled = false;
+            timer1.Enabled =  false;
         }
 
         private void FrmSplash_Load(object sender, EventArgs e)
